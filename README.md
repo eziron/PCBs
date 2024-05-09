@@ -9,8 +9,11 @@
 - Archivos de diseño en formato EAGLE.
 
 ## ¿Cómo usar estos diseños?
+Es importante tener en cuenta que mis diseños están hechos de manera específica para mis propios proyectos. Por lo tanto, al utilizarlos, es posible que necesites realizar ajustes o adaptaciones.
 
-Es importante tener en cuenta que mis diseños están hechos de manera específica para mis propios proyectos. Por lo tanto, al utilizarlos, es posible que necesites realizar ajustes o considerar ciertas especificaciones particulares de mis aplicaciones originales.
+## Proyectos Subidos
+1. **SUMO AUTONOMO - Asura Kabuto:** PCB de 100 x 55mm diseñada en base a una Raspberry Pi Pico.
+2. **Módulo Inversor con MAX3232:** PCB diseñada para proporcionar una interfaz sencilla para los 2 canales del MAX3232.
 
 ## Sígueme en Instagram y TikTok
 
@@ -19,4 +22,3 @@ Es importante tener en cuenta que mis diseños están hechos de manera específi
 - [Instagram](https://www.instagram.com/eziron1)
 - [TikTok](https://www.tiktok.com/@eziron1)
 
-¡Gracias por tu interés en mis PCBs! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
